@@ -1,14 +1,3 @@
-/*
-Indojet Blast by Zofia Kreasi
-Coded by Habibie - habibieamrullah@gmail.com
-All rights reserved
-
-
-Levels Variables:
-1 - enemy types generted managed & randomly
-2 - enemy apr and firing speed
-*/
-
 
 //GLOBAL VARIABLES
 var title = "jpAdventure";
